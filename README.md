@@ -1,6 +1,6 @@
 ## Halló 👋
 
-**gjg-1801/gjg-1801** er ✨ _geymslan mín_ ✨ .
+Þessi ✨ *geymsla* ✨ (_repository_) er sjálvirk heimasíða **gjg-demo**.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
