@@ -2,7 +2,7 @@
 
 - ✨ Þessi geymsla (_repository_)  *gjg-demo* er sjálvirk forsíða reikningsins github.com/**gjg-demo**.
 - ✨ Hér er tilvalið að hafa tengla sem vísa á verkefni sem þú hefur gert í Tækniskólanum
-- Dæmi: [VEF1VG05AU - Verkefni 1](https://github.com/gjg-demo/VEF1VG05A/verkefni-1/)
+- Dæmi: [VEF1VG05AU - Verkefni 1](https://github.com/gjg-demo/VEF1VG05A/tree/main/verkefni-1)
 
 - 🔭 EF þú býrð til geymslu með **notendanafni + github.io**, dæmi: ` gjg-demo.github.io ` þá býr miðlarinn til gátt (port 80) á internetið og birtir ` README.md ` sem forsíðu.
   - Tengill á forsíðu [gjg-demo.github.io](https:gjg-demo.github.io)
