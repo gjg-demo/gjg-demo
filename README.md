@@ -7,7 +7,6 @@
     - Á þessa vefsíðu er tilvalið að setja stutta kynningu um þig og vísa verkfeni sem þú hefur unnið í Tækniskólanum
 
 - ⚡ [Lokaverkefni nemenda í VEFÞ1VG05AU](https://vefgrunnur.github.io/synidaemi/)
-- ⚡ [Lokaverkefni nemenda í VEFÞ1VG05AU](https://vefgrunnur.github.io/synidaemi/)
 
 ---
 
